@@ -1,2 +1,5 @@
-# the-first
-My First GH Project
+Natasa Stevanovic 
+
+Mejl: ne dam mejl
+
+A ovo smo dodali.lalala
